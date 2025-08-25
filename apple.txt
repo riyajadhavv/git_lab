@@ -1,1 +1,1 @@
-apple MAIN - line one
+apple RESOLVED - merged content
